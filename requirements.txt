@@ -1,0 +1,6 @@
+matplotlib
+numpy
+logging
+random
+datetime
+keras
